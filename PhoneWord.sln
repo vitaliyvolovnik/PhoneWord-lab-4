@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36025.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneWord", "PhoneWord\PhoneWord.csproj", "{9BCA4C73-F1E7-40BA-B37B-B34C8DF2F278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCA4C73-F1E7-40BA-B37B-B34C8DF2F278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCA4C73-F1E7-40BA-B37B-B34C8DF2F278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCA4C73-F1E7-40BA-B37B-B34C8DF2F278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCA4C73-F1E7-40BA-B37B-B34C8DF2F278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FACC961B-D7B8-45E6-97D8-BD126E8F6F3B}
+	EndGlobalSection
+EndGlobal
